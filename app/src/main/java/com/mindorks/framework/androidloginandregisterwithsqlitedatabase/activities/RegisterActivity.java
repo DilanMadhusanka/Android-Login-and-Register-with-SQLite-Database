@@ -19,12 +19,6 @@ import com.mindorks.framework.androidloginandregisterwithsqlitedatabase.sql.Data
 
 public class RegisterActivity extends AppCompatActivity implements View.OnClickListener{
 
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//        setContentView(R.layout.activity_register);
-//    }
-
     private final AppCompatActivity activity = RegisterActivity.this;
 
     private NestedScrollView nestedScrollView;
